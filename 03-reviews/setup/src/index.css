@@ -94,6 +94,7 @@ h4 {
 }
 p {
   margin-bottom: 1.25rem;
+  font-size: 1.5rem;
   color: var(--clr-grey-5);
 }
 @media screen and (min-width: 800px) {
@@ -224,7 +225,7 @@ main {
 .prev-btn,
 .next-btn {
   color: var(--clr-primary-7);
-  font-size: 1.25rem;
+  font-size: 2rem;
   background: transparent;
   border-color: transparent;
   margin: 0 0.5rem;
@@ -236,10 +237,11 @@ main {
   color: var(--clr-primary-5);
 }
 .random-btn {
-  margin-top: 0.5rem;
+  margin-top: 1rem;
   background: var(--clr-primary-10);
   color: var(--clr-primary-5);
-  padding: 0.25rem 0.5rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
   text-transform: capitalize;
   border-radius: var(--radius);
   transition: var(--transition);
