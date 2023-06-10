@@ -20,4 +20,32 @@ export default [
     img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
     amount: 1,
   },
+  {
+    id: 4,
+    title: '',
+    price: 699.99,
+    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: 'Xiaomi Redmi Note 2',
+    price: 699.99,
+    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    amount: 1,
+  },
+  {
+    id: 6,
+    title: 'Xiaomi Redmi Note 2',
+    price: 699.99,
+    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    amount: 1,
+  },
+  {
+    id: 3,
+    title: 'Xiaomi Redmi Note 2',
+    price: 699.99,
+    img: 'https://dl.airtable.com/.attachments/bae9208dc34f35128749ecda5b999e84/337c285d/phone-3_h2s6fo.png',
+    amount: 1,
+  },
 ];
